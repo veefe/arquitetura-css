@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+:root {
+    --color-white: #ffffff;
+    --color-light-grey: #8c8888;
+    --color-dark-red: #8d0606;
+    --color-black: #000000;
+
+    --font-Pacifico: 'Pacifico', cursive;
+    --font-Roboto: 'Roboto', sans-serif;
+}
