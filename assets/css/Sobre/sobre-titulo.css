@@ -1,5 +1,17 @@
 .sobre__titulo {
     font-family: var(--font-Pacifico);
     color: var(--color-dark-red);
-    font-size: 3.18em;
+}
+
+@media screen and (min-width: 0) {
+    .sobre__titulo {
+        font-size: 2em;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobre__titulo {
+        font-size: 3.18em;
+
+    }
 }
