@@ -1,0 +1,12 @@
+.receita__link {
+    background: var(--color-dark-red);
+    color: var(--color-white);
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.receita__link:hover {
+    background: var(--color-light-red);
+    color: var(--color-dark-red);
+}
