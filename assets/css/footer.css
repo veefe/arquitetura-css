@@ -1,0 +1,6 @@
+.footer {
+    background: var(--color-light-grey);
+    color: var(--color-white);
+    text-align: right;
+    padding: 1.5em 5em;
+}
